@@ -1,4 +1,4 @@
---Instalación
+-Instalación
 
 - crear un nuevo proyecto
 - pegar el contenido de el archivo elk-deployment en el yaml
