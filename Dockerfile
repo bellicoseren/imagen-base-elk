@@ -42,7 +42,8 @@ RUN set -x \
  && sysctl vm.max_map_count
 
 
-ENV ELK_VERSION 6.3.0
+#ENV ELK_VERSION 6.3.0
+ENV ELK_VERSION 6.2.4
 
 ### install Elasticsearch
 
